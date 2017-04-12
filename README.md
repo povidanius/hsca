@@ -1,6 +1,6 @@
 # hsca
 
-Matlab scripts for Hilbert-Schmidt Component Analysis and EigenHSIC.
+Matlab scripts for Hilbert-Schmidt Component Analysis and EigenHSIC (my PhD thesis results).
 
 Related publications:
 
